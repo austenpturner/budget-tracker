@@ -9,6 +9,7 @@ The main goal for this project was to practice using IndexedDB for storing data 
 
 ## The Outcome
 My Budget Tracker allows the user to successfully update their budget while they are offline, and changes made offline will appear when the user opens the app again with an internet connection. The user can enter in a deposit and the amount will be added to the total budget, or enter a expense which will be subtracted from the budget. The total budget is displayed to the user and a graph is displayed below to give the user a visual of their deposits and expenses over time.
+The app is deloyed on Heroku and can be found here: https://bootcamp-budget-tracker.herokuapp.com/
 
 ## Thanks for reading! :smile:
 Please contact me with any questions or comments: austenpturner@msn.com
